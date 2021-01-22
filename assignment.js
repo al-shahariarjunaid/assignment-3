@@ -68,4 +68,4 @@ function megaFriend(friends){
 }
 var friends = ["Sakib", "Jamiluddin", "Rifat", "Armaan", "Sajjad", "Eishan"];
 var megaName = megaFriend(friends);
-console.log(megaName);
+//console.log(megaName);
